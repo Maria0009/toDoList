@@ -28,13 +28,17 @@ with login and password fields:
 - The second page is a HOME page with 
 a link to go to the main page with notes:
 
+![Page2](https://user-images.githubusercontent.com/68506586/177041221-1b9cdd88-f91b-4e1c-b535-ad60ee804bea.PNG)
 - List-todo page is a page with buttons: 
-update the notes of the current user, 
-delete or add a new note. 
+**Update** the notes of the current user, 
+**Delete** or **Add Todo** a new note. 
 All notes are sorted by the targetDate field:
 
+![Page3](https://user-images.githubusercontent.com/68506586/177041226-c939f52e-8099-4650-acb3-010332ad4cd0.PNG)
+Also we have three buttons: **Home** -  go back to the main page, **Todos** update the current one, **Logout** - log out of the account.
 - When adding a note, we fill in the description 
 and target Date field (in the specified format) 
-with the option to save or return to the previous page.
+with the option to **Save** or **Return** to the previous page.
 
+![Page4](https://user-images.githubusercontent.com/68506586/177041235-c984fa4e-b958-4f4a-9089-2a7bd57d989c.PNG)
 TodoList is very simple and intuitive programme to use.
