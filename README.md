@@ -24,6 +24,7 @@ http://localhost:8088
 - The first page is the authentication page, 
 with login and password fields:
 
+![Page1](https://user-images.githubusercontent.com/68506586/177040886-ed8a7790-24dc-4c84-a4dd-fe632c894d47.PNG)
 - The second page is a HOME page with 
 a link to go to the main page with notes:
 
